@@ -12,8 +12,8 @@
 
   <!-- Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelx-ss&layout=compact&theme=radical" alt="Rafael's Top Languages" height="200" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaelx-ss&theme=radical" alt="Rafael's GitHub Streak" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelx-ss&layout=compact&theme=radical" alt="Rafael's Top Languages" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaelx-ss&theme=radical" alt="Rafael's GitHub Streak" height="150" />
   </p>
 </div>
 
