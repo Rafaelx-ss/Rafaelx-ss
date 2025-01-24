@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Rafael Solís</h1>
-  <h4>Full-Stack Developer</h4>
+  <h1>Full-Stack Developer</h1>
   
   [![GitHub stars](https://img.shields.io/github/stars/Rafaelx-ss?style=for-the-badge)](https://github.com/Rafaelx-ss)
   [![GitHub followers](https://img.shields.io/github/followers/Rafaelx-ss?style=for-the-badge&logo=github)](https://github.com/Rafaelx-ss)
