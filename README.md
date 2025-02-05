@@ -3,12 +3,13 @@
   
   [![GitHub stars](https://img.shields.io/github/stars/Rafaelx-ss?style=for-the-badge)](https://github.com/Rafaelx-ss)
   [![GitHub followers](https://img.shields.io/github/followers/Rafaelx-ss?style=for-the-badge&logo=github)](https://github.com/Rafaelx-ss)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.solis@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mxrafael.solis@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelxs)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafaelx-ss)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelx.ss/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-rafaelx.vercel.app/)
-  
+  [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29964%26project%3D%26in=0)](https://codetime.dev)
+
   <!-- Stats -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelx-ss&layout=compact&theme=radical" alt="Rafael's Top Languages" height="150" />
